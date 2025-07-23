@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimin-kavathia&label=Profile%20views&color=0e75b6&style=flat" alt="jaimin-kavathia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimin-kavathia" alt="jaimin-kavathia" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://jaimin-kavathia.github.io/](https://jaimin-kavathia.github.io/)
 
 - 📫 How to reach me **jaiminkavathia30@gmail.com**
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaimin-kavathia-flutter-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaimin-kavathia-flutter-developer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
