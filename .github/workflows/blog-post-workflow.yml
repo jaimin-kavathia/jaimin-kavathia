@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@jaiminkavathia30"
           max_post_count: 5
-          template: "- ✍️ [$title]($url) <br/>$newline"
+          template: '<li>✍️ <a href="$url">$title</a></li>$newline'
