@@ -87,7 +87,9 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/introducing-smart-permission-runtime-permissions-made-effortless-in-flutter-30f4785a588f?source=rss-56f5ea27741b------2">Introducing smart_permission — Runtime Permissions Made Effortless in Flutter</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/wait-theres-a-blocselector-my-flutter-bloc-awakening-4b66edbb84d4?source=rss-56f5ea27741b------2">“Wait… There’s a BlocSelector?!” — My Flutter Bloc Awakening</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/flutters-missing-piece-effortless-media-picking-with-limited-access-support-9a1a24404667?source=rss-56f5ea27741b------2">Flutter’s Missing Piece: Effortless Media Picking with Limited Access Support</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
