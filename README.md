@@ -87,11 +87,11 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/convert-a-pdf-to-word-on-android-free-and-offline-819683fba64a?source=rss-56f5ea27741b------2">Convert a PDF to Word on Android, Free and Offline</a></li>
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/merge-pdf-files-on-your-phone-in-under-a-minute-fa1fc62feef8?source=rss-56f5ea27741b------2">Merge PDF Files on Your Phone in Under a Minute</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/convert-a-pdf-to-word-on-android-free-and-offline-819683fba64a?source=rss-56f5ea27741b------2">Convert a PDF to Word on Android, Free and Offline</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/how-to-sign-a-pdf-on-your-phone-without-printing-it-3d55f282ac7b?source=rss-56f5ea27741b------2">How to Sign a PDF on Your Phone Without Printing It</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/compress-a-pdf-under-200-kb-on-your-phone-for-any-upload-form-f5c057729758?source=rss-56f5ea27741b------2">Compress a PDF Under 200 KB on Your Phone for Any Upload Form</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/how-to-edit-the-text-of-a-pdf-on-your-android-phone-56825ae1f479?source=rss-56f5ea27741b------2">How to Edit the Text of a PDF on Your Android Phone</a></li>
-<li>✍️ <a href="https://medium.com/@jaiminkavathia30/introducing-smart-permission-runtime-permissions-made-effortless-in-flutter-30f4785a588f?source=rss-56f5ea27741b------2">Introducing smart_permission — Runtime Permissions Made Effortless in Flutter</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
