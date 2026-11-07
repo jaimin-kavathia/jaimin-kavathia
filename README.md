@@ -87,11 +87,11 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/copy-text-from-a-scanned-pdf-with-ocr-even-in-hindi-437c93a8e98f?source=rss-56f5ea27741b------2">Copy Text From a Scanned PDF With OCR, Even in Hindi</a></li>
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/one-free-app-for-every-pdf-job-on-android-a-tour-of-pdf-tools-6525d4913cef?source=rss-56f5ea27741b------2">One Free App for Every PDF Job on Android: A Tour of PDF Tools</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/copy-text-from-a-scanned-pdf-with-ocr-even-in-hindi-437c93a8e98f?source=rss-56f5ea27741b------2">Copy Text From a Scanned PDF With OCR, Even in Hindi</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/fill-a-pdf-form-on-your-phone-type-tick-and-choose-88d29c60a114?source=rss-56f5ea27741b------2">Fill a PDF Form on Your Phone: Type, Tick and Choose</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/merge-pdf-files-on-your-phone-in-under-a-minute-fa1fc62feef8?source=rss-56f5ea27741b------2">Merge PDF Files on Your Phone in Under a Minute</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/convert-a-pdf-to-word-on-android-free-and-offline-819683fba64a?source=rss-56f5ea27741b------2">Convert a PDF to Word on Android, Free and Offline</a></li>
-<li>✍️ <a href="https://medium.com/@jaiminkavathia30/how-to-sign-a-pdf-on-your-phone-without-printing-it-3d55f282ac7b?source=rss-56f5ea27741b------2">How to Sign a PDF on Your Phone Without Printing It</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
