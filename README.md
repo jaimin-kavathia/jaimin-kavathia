@@ -87,11 +87,11 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/print-pdfs-cheaper-2-pages-per-sheet-black-and-white-page-numbers-8f58d810bfef?source=rss-56f5ea27741b------2">Print PDFs Cheaper: 2 Pages per Sheet, Black and White, Page Numbers</a></li>
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/turn-photos-into-one-pdf-and-a-pdf-back-into-jpg-images-8af59c80d62f?source=rss-56f5ea27741b------2">Turn Photos Into One PDF, and a PDF Back Into JPG Images</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/print-pdfs-cheaper-2-pages-per-sheet-black-and-white-page-numbers-8f58d810bfef?source=rss-56f5ea27741b------2">Print PDFs Cheaper: 2 Pages per Sheet, Black and White, Page Numbers</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/split-a-pdf-reorder-pages-and-delete-the-ones-you-do-not-need-ebf9aaf1a5cd?source=rss-56f5ea27741b------2">Split a PDF, Reorder Pages and Delete the Ones You Do Not Need</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/compare-two-pdfs-and-see-every-word-that-changed-825b7707d004?source=rss-56f5ea27741b------2">Compare Two PDFs and See Every Word That Changed</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/black-out-phone-numbers-and-e-mails-in-a-pdf-before-you-share-it-1251c46eb509?source=rss-56f5ea27741b------2">Black Out Phone Numbers and E-mails in a PDF Before You Share It</a></li>
-<li>✍️ <a href="https://medium.com/@jaiminkavathia30/password-protect-a-pdf-on-android-and-control-printing-and-copying-ad78b3f47934?source=rss-56f5ea27741b------2">Password-Protect a PDF on Android and Control Printing and Copying</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
