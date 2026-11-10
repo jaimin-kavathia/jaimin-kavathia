@@ -87,11 +87,11 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/compare-two-pdfs-and-see-every-word-that-changed-825b7707d004?source=rss-56f5ea27741b------2">Compare Two PDFs and See Every Word That Changed</a></li>
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/split-a-pdf-reorder-pages-and-delete-the-ones-you-do-not-need-ebf9aaf1a5cd?source=rss-56f5ea27741b------2">Split a PDF, Reorder Pages and Delete the Ones You Do Not Need</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/compare-two-pdfs-and-see-every-word-that-changed-825b7707d004?source=rss-56f5ea27741b------2">Compare Two PDFs and See Every Word That Changed</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/black-out-phone-numbers-and-e-mails-in-a-pdf-before-you-share-it-1251c46eb509?source=rss-56f5ea27741b------2">Black Out Phone Numbers and E-mails in a PDF Before You Share It</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/password-protect-a-pdf-on-android-and-control-printing-and-copying-ad78b3f47934?source=rss-56f5ea27741b------2">Password-Protect a PDF on Android and Control Printing and Copying</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/one-free-app-for-every-pdf-job-on-android-a-tour-of-pdf-tools-6525d4913cef?source=rss-56f5ea27741b------2">One Free App for Every PDF Job on Android: A Tour of PDF Tools</a></li>
-<li>✍️ <a href="https://medium.com/@jaiminkavathia30/copy-text-from-a-scanned-pdf-with-ocr-even-in-hindi-437c93a8e98f?source=rss-56f5ea27741b------2">Copy Text From a Scanned PDF With OCR, Even in Hindi</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
