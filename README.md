@@ -87,11 +87,11 @@
 <h2>✍️ Latest Blog Posts</h2>
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/make-a-wi-fi-qr-code-so-guests-join-without-typing-the-password-453812c58a89?source=rss-56f5ea27741b------2">Make a Wi-Fi QR Code So Guests Join Without Typing the Password</a></li>
+<!-- BLOG-POST-LIST:START --><li>✍️ <a href="https://medium.com/@jaiminkavathia30/finding-your-car-in-a-multi-storey-car-park-floors-zones-and-photos-5b69b9c7b0ad?source=rss-56f5ea27741b------2">Finding Your Car in a Multi-Storey Car Park: Floors, Zones and Photos</a></li>
+<li>✍️ <a href="https://medium.com/@jaiminkavathia30/make-a-wi-fi-qr-code-so-guests-join-without-typing-the-password-453812c58a89?source=rss-56f5ea27741b------2">Make a Wi-Fi QR Code So Guests Join Without Typing the Password</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/pull-every-date-amount-and-phone-number-out-of-a-pdf-d133ea16c8eb?source=rss-56f5ea27741b------2">Pull Every Date, Amount and Phone Number Out of a PDF</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/how-to-never-forget-where-you-parked-again-381373c42b02?source=rss-56f5ea27741b------2">How to Never Forget Where You Parked Again</a></li>
 <li>✍️ <a href="https://medium.com/@jaiminkavathia30/translate-a-pdf-on-your-phone-even-without-internet-7a60c144ffe5?source=rss-56f5ea27741b------2">Translate a PDF on Your Phone, Even Without Internet</a></li>
-<li>✍️ <a href="https://medium.com/@jaiminkavathia30/add-a-paid-stamp-a-watermark-or-highlights-to-a-pdf-on-android-57943d968a42?source=rss-56f5ea27741b------2">Add a PAID Stamp, a Watermark or Highlights to a PDF on Android</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
