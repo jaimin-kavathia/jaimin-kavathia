@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">Jaimin Kavathia, Senior Flutter Developer</title>
+  <desc id="d">Flutter apps that feel native on every screen. 5+ years with Flutter, 30+ projects delivered, 2 packages on pub.dev and 4 apps on Google Play.</desc>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="500" rx="28"/></clipPath>
+    <radialGradient id="ga"><stop offset="0" stop-color="#7cc8ff" stop-opacity=".36"/><stop offset="1" stop-color="#7cc8ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gb"><stop offset="0" stop-color="#ffb38a" stop-opacity=".17"/><stop offset="1" stop-color="#ffb38a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gc"><stop offset="0" stop-color="#8f9bff" stop-opacity=".13"/><stop offset="1" stop-color="#8f9bff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.3" cy="1.3" r="1.3" fill="#fff"/></pattern>
+    <radialGradient id="dotfade" cx="50%" cy="36%" r="60%"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <mask id="dotmask"><rect width="1200" height="500" fill="url(#dotfade)"/></mask>
+    <linearGradient id="native" gradientUnits="userSpaceOnUse" x1="170" y1="0" x2="440" y2="0"><stop offset="0" stop-color="#f1f7ff"/><stop offset="1" stop-color="#7cc8ff"/><animateTransform attributeName="gradientTransform" type="translate" values="60 0;-90 0;60 0" dur="8s" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" repeatCount="indefinite"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".45" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0.11"/></linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+    .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;font-style:italic}
+    .orb{animation:drift 18s ease-in-out infinite alternate}
+    .orb.b{animation-duration:23s;animation-direction:alternate-reverse}
+    .orb.c{animation-duration:27s}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ping 2.8s cubic-bezier(0,0,.2,1) infinite}
+    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(90px,46px)}}
+    @keyframes ping{0%{transform:scale(1);opacity:.55}75%,100%{transform:scale(3.4);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.orb,.ring{animation:none}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="500" fill="#050506"/>
+    <circle class="orb a" cx="210" cy="30" r="440" fill="url(#ga)"/>
+    <circle class="orb b" cx="1020" cy="500" r="420" fill="url(#gb)"/>
+    <circle class="orb c" cx="700" cy="210" r="340" fill="url(#gc)"/>
+    <rect width="1200" height="500" fill="url(#dots)" mask="url(#dotmask)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="499" rx="27.5" stroke="url(#edge)"/>
+
+  <g>
+    <circle cx="62" cy="60" r="19.5" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".18"/>
+    <text x="62" y="64.8" text-anchor="middle" class="sans" font-size="13" font-weight="700" letter-spacing=".04em" fill="#f4f4f6">JK</text>
+    <text x="94" y="65.5" class="sans" font-size="16.5" font-weight="600" fill="#f4f4f6">Jaimin Kavathia</text>
+    <text x="1160" y="64.5" text-anchor="end" class="mono" font-size="13.5" letter-spacing=".12em" fill="#8b8b95">AHMEDABAD, INDIA  ·  23.0225° N  ·  72.5714° E</text>
+  </g>
+
+  <g>
+    <rect x="337" y="111" width="526" height="38" rx="19" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".14"/>
+    <circle class="ring" cx="362" cy="130" r="4" fill="#7cc8ff"/>
+    <circle cx="362" cy="130" r="4" fill="#7cc8ff"/>
+    <text x="381" y="135" class="mono" font-size="14" fill="#a8a8b1" textLength="460" lengthAdjust="spacing">SENIOR FLUTTER DEVELOPER · OPEN-SOURCE AUTHOR</text>
+  </g>
+
+  <g>
+    <text x="600" y="242" text-anchor="middle" class="sans" font-size="80" font-weight="400" letter-spacing="-.035em" fill="#f4f4f6">Flutter apps that feel</text>
+  </g>
+  <g>
+    <text x="600" y="332" text-anchor="middle" font-size="80"><tspan class="serif" font-size="90" fill="url(#native)">native</tspan><tspan class="sans" font-weight="400" letter-spacing="-.035em" fill="#a8a8b1"> on every screen.</tspan></text>
+  </g>
+
+  <g><path d="M40 394h1120" stroke="#fff" stroke-opacity=".08"/></g>
+  <g>
+    <text x="76" y="450" class="sans" font-size="42" font-weight="600" letter-spacing="-.02em" fill="#f4f4f6">5<tspan fill="#7cc8ff">+</tspan></text>
+    <text x="76" y="476" class="mono" font-size="14" letter-spacing=".12em" fill="#8b8b95">YEARS WITH FLUTTER</text>
+  </g>
+  <g><path d="M320 414v62" stroke="#fff" stroke-opacity=".08"/>
+    <text x="356" y="450" class="sans" font-size="42" font-weight="600" letter-spacing="-.02em" fill="#f4f4f6">30<tspan fill="#7cc8ff">+</tspan></text>
+    <text x="356" y="476" class="mono" font-size="14" letter-spacing=".12em" fill="#8b8b95">PROJECTS DELIVERED</text>
+  </g>
+  <g><path d="M600 414v62" stroke="#fff" stroke-opacity=".08"/>
+    <text x="636" y="450" class="sans" font-size="42" font-weight="600" letter-spacing="-.02em" fill="#f4f4f6">2<tspan fill="#7cc8ff"></tspan></text>
+    <text x="636" y="476" class="mono" font-size="14" letter-spacing=".12em" fill="#8b8b95">PACKAGES ON PUB.DEV</text>
+  </g>
+  <g><path d="M880 414v62" stroke="#fff" stroke-opacity=".08"/>
+    <text x="916" y="450" class="sans" font-size="42" font-weight="600" letter-spacing="-.02em" fill="#f4f4f6">4<tspan fill="#7cc8ff"></tspan></text>
+    <text x="916" y="476" class="mono" font-size="14" letter-spacing=".12em" fill="#8b8b95">APPS ON GOOGLE PLAY</text>
+  </g>
+</svg>

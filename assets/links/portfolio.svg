@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="40" viewBox="0 0 137 40" fill="none" role="img" aria-labelledby="t">
+  <title id="t">Portfolio</title>
+  <rect x=".5" y=".5" width="136" height="39" rx="19.5" fill="#7cc8ff" stroke="#7cc8ff" stroke-opacity="1"/>
+  <text x="20" y="25" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#04121c">Portfolio</text>
+  <circle cx="117" cy="20" r="12" fill="#04121c" fill-opacity="1"/>
+  <path d="M113.5 23.5l7-7m-5.5 0h5.5v5.5" stroke="#7cc8ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

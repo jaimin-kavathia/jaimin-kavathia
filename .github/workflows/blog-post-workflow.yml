@@ -17,4 +17,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@jaiminkavathia30"
           max_post_count: 5
-          template: '<li>✍️ <a href="$url">$title</a></li>$newline'
+          template: '<li><a href="$url">$title</a> <sub>$date</sub></li>$newline'
+          date_format: "UTC:mmm d, yyyy"
+          # Drop Medium's ?source=rss tracking suffix from each link
+          item_exec: "post.url = post.url.split('?')[0]"
