@@ -253,11 +253,11 @@ flutter pub add adaptive_media_picker
 Notes on Flutter, my packages and the apps I ship, on [Medium](https://medium.com/@jaiminkavathia30).
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://medium.com/@jaiminkavathia30/scan-your-parking-ticket-and-let-your-phone-time-it-d8f478a23ab4">Scan Your Parking Ticket and Let Your Phone Time It</a> <sub>Nov 24, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://medium.com/@jaiminkavathia30/how-to-share-your-parked-cars-location-with-family-160d908579f7">How to Share Your Parked Car’s Location With Family</a> <sub>Nov 27, 2026</sub></li>
+<li><a href="https://medium.com/@jaiminkavathia30/how-to-remove-a-photo-background-for-free-on-android-a1b94fdf25d9">How to Remove a Photo Background for Free on Android</a> <sub>Nov 27, 2026</sub></li>
+<li><a href="https://medium.com/@jaiminkavathia30/scan-your-parking-ticket-and-let-your-phone-time-it-d8f478a23ab4">Scan Your Parking Ticket and Let Your Phone Time It</a> <sub>Nov 24, 2026</sub></li>
 <li><a href="https://medium.com/@jaiminkavathia30/how-to-make-phone-photos-look-like-film-493013ecc6cc">How to Make Phone Photos Look Like Film</a> <sub>Nov 24, 2026</sub></li>
 <li><a href="https://medium.com/@jaiminkavathia30/stop-paying-parking-fines-a-simple-meter-timer-habit-4209a762f007">Stop Paying Parking Fines: A Simple Meter-Timer Habit</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://medium.com/@jaiminkavathia30/how-to-fix-blurry-photos-on-your-android-phone-de779ca83ce8">How to Fix Blurry Photos on Your Android Phone</a> <sub>Nov 20, 2026</sub></li>
-<li><a href="https://medium.com/@jaiminkavathia30/no-gps-underground-how-a-step-and-compass-trail-leads-you-back-ef7524fbf7e4">No GPS Underground? How a Step-and-Compass Trail Leads You Back</a> <sub>Nov 17, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
